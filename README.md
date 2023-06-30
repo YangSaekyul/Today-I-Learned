@@ -1,1 +1,6 @@
+[HTML](./HTML/)
+[JavaScript](./JavaScript/)
+[Network](./Network/)
+[Node.js](./Node.js/)
 [React](./React/)
+[Redux](./Redux/)
