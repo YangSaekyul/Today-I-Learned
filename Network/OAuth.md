@@ -39,9 +39,7 @@ Authorization Code Grant Type은 웹 어플리케이션에서 가장 많이 사�
 Refresh Token Grant Type은 만료된 액세스 토큰을 갱신하기 위한 흐름이다.
 
 1. **리프레시 토큰 전달**: 사용자는 리프레시 토큰을 Authorization Server에 보낸다.
-1. \*\*유효 확인 및
-
-액세스 토큰 발급\*\*: Authorization Server는 리프레시 토큰의 유효성을 확인하고 새로운 액세스 토큰을 발급한다.
+1. 유효 확인 및 액세스 토큰 발급: Authorization Server는 리프레시 토큰의 유효성을 확인하고 새로운 액세스 토큰을 발급한다.
 
 1. **정보 요청 및 전달**: Application은 새로 발급받은 액세스 토큰을 사용하여 Resource Server에서 정보를 받아온다.
 
