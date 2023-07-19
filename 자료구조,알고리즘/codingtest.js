@@ -1,16 +1,14 @@
 let fs = require("fs");
-let input = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
+let input = fs.readFileSync("/dev/stdin").toString().trim();
 
-let [n, m] = input[0].split(" ").map(Number);
+let arr = input.split("");
+let newArr = input.split("").reverse();
 
-let result = new Array(n).fill(0);
+let original = arr.join("");
+let reversed = newArr.join("");
 
-for (let i = 1; i <= m; i++) {
-  let [start, end, value] = input[i].split(" ").map(Number);
-
-  for (let j = start; j <= end; j++) {
-    result[j - 1] = value;
-  }
+if (original !== reversed) {
+  console.log(0);
+} else {
+  console.log(1);
 }
-
-console.log(result.join(" "));
