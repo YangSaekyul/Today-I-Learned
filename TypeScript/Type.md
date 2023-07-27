@@ -1,24 +1,41 @@
+# Boolean Type
+
 ```ts
-// TypeScript 작성법
-
-// Boolean Type
 let isDone: boolean = false;
+```
 
-// Number Type
+# Number Type
+
+```ts
 let decimal: number = 6;
+```
 
-// String Type
+# String Type
+
+```ts
 let color: string = "blue";
+```
 
-// Array Type
+# Array Type
+
+```ts
 let list: number[] = [1, 2, 3];
+```
 
-// Tuple Type
+# Tuple Type
+
+```ts
 let user: [string, number] = ["name", 123];
+```
 
-// Object Type
+# Object Type
+
+```ts
 let game: object = { name: "The Last of Us", price: 30000 };
+```
 
-// Any Type
+# Any Type
+
+```ts
 let notSure: any = 4;
 ```
