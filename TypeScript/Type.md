@@ -24,6 +24,8 @@ let list: number[] = [1, 2, 3];
 
 # Tuple Type
 
+배열의 길이가 고정되고 각 요소의 타입이 지정되어 있는 배열 타입
+
 ```ts
 let user: [string, number] = ["name", 123];
 ```

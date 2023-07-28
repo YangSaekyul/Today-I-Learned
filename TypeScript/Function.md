@@ -18,6 +18,8 @@ const add = (a: number, b: number): number => {
 
 # 리턴 값이 없다면?
 
+`void` 란 아무것도 반환하지 않는다는 의미이다.
+
 ```ts
 function printMe(name: string, age: number): void {
   console.log(`name: ${name}, age: ${age}`);
