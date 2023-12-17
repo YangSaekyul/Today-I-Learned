@@ -1,6 +1,27 @@
 <div align=center><h1>바로가기</h1></div><br>
 
-<div align=center><h2>기술 스택</h2>
+# 프론트엔드
+
+[JavaScript](./JavaScript/)  
+[TypeScript](./TypeScript/)  
+[React](./React/)  
+[CSS](./CSS/)  
+[Redux](./Redux/)
+
+# 모바일
+
+[Flutter](./Flutter/)
+
+# 기타
+
+[Algorithm](./algorithm/)  
+[Deploy](./Deploy/)  
+[Git](./Git/)  
+[Network](./Network/)  
+[Node.js](./Node.js/)  
+[Web](./Web/)
+
+<!-- <div align=center><h2>기술 스택</h2>
 
 [<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](./HTML/)
 [<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">](./CSS/)
@@ -35,4 +56,4 @@
 [<img src="https://img.shields.io/badge/algorithm-003DFF?style=for-the-badge&logo=internet&logoColor=white">](./algorithm/)
 [<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">](./Git/)
 
-</div>
+</div> -->
