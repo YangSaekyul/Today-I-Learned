@@ -9,7 +9,6 @@ class MainScreen extends StatefulWidget {
 }
 
 class _MainScreenState extends State<MainScreen> {
-  List lstHello = ['값1', '하이', '뭐해', '3번째', '기타등등'];
   TextEditingController idController = TextEditingController();
 
   @override
